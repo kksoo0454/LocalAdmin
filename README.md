@@ -70,6 +70,7 @@
 
 ## 워크플로우
 
-https://github.com/user-attachments/assets/a1c209a0-56f0-4c48-8cd5-05f525bf94be
+<video src="https://github.com/user-attachments/assets/a1c209a0-56f0-4c48-8cd5-05f525bf94be" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/a1c209a0-56f0-4c48-8cd5-05f525bf94be" controls width="600"></video>
 
 ---
