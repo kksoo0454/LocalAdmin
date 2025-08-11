@@ -70,17 +70,17 @@
 
 ## 워크플로우
 
-로그인 기능
-<video src="https://github.com/user-attachments/assets/ab27b76e-b0a4-46d9-978c-4d604dea5c71" controls width="600"></video><br>
-대시보드 기능
-<video src="https://github.com/user-attachments/assets/ca260186-5a54-45e0-8e0b-c5ac1fb408a8" controls width="600"></video><br>
-주민게시판 기능
-<video src="https://github.com/user-attachments/assets/e3153ea0-fb7b-4fae-b9b7-3ef7b583faea" controls width="600"></video><br>
-민원게시판 기능
-<video src="https://github.com/user-attachments/assets/5bcd9f68-4724-45ec-8d1e-a328ad1e3eb4" controls width="600"></video><br>
-민원사항 댓글 기능
-<video src="https://github.com/user-attachments/assets/dfd67d4d-b534-4980-922e-499058f6deb5" controls width="600"></video><br>
-공지게시판 기능
-<video src="https://github.com/user-attachments/assets/a1c209a0-56f0-4c48-8cd5-05f525bf94be" controls width="600"></video>
+- **로그인 기능
+<video src="https://github.com/user-attachments/assets/ab27b76e-b0a4-46d9-978c-4d604dea5c71" controls width="600"></video>**
+- **대시보드 기능
+<video src="https://github.com/user-attachments/assets/ca260186-5a54-45e0-8e0b-c5ac1fb408a8" controls width="600"></video>**
+- **주민게시판 기능
+<video src="https://github.com/user-attachments/assets/e3153ea0-fb7b-4fae-b9b7-3ef7b583faea" controls width="600"></video>**
+- **민원게시판 기능
+<video src="https://github.com/user-attachments/assets/5bcd9f68-4724-45ec-8d1e-a328ad1e3eb4" controls width="600"></video>**
+- **민원사항 댓글 기능
+<video src="https://github.com/user-attachments/assets/dfd67d4d-b534-4980-922e-499058f6deb5" controls width="600"></video>**
+- **공지게시판 기능
+<video src="https://github.com/user-attachments/assets/a1c209a0-56f0-4c48-8cd5-05f525bf94be" controls width="600"></video>**
 
 ---
